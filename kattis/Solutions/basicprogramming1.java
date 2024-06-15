@@ -5,7 +5,7 @@ class Solution {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
-        int t = sc.nextInt(); // t = 1 to t = 7
+        int t = sc.nextInt(); 
 
         long[] arr = new long[n];
 
